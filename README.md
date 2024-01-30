@@ -1,0 +1,1 @@
+![Allure report](https://github.com/IQA69/patterns_Allure/assets/138374828/fe0a5a09-f01a-4328-a0ae-f0b2a9a83d27)
